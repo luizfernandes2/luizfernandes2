@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello, I'm Luiz Fernandes
 
-<!--
-**luizfernandes2/luizfernandes2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Back End Developer
+- 🌱 I’m currently learning Data Science
+- 💬 Ask me about: JavaScript, NodeJS, Python, SQL
+- 📫 How to reach me: luizfernandes.sistemas@gmail.com
 
-Here are some ideas to get you started:
+<div>
+  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Luiz-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Let's Connect :handshake:
+
+<a href="https://www.linkedin.com/in/luiz-f-a7b948139/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:luizfernandes.sistemas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
